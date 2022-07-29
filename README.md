@@ -36,11 +36,17 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="156" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47py7pmigg0w8zg9habl30rlcecp0ua4e9q2y9yn14&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media0.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif?cid=ecf05e47py7pmigg0w8zg9habl30rlcecp0ua4e9q2y9yn14&rid=giphy.gif&ct=g"  />
 
 ###
+
+<div align="center">
+  <img height="198" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47f48xtxclnrgtqbzqd92jbe4m1lr2xgjf18wentc1&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<br clear="both">
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/matheuszeiser/count.svg?"  />
@@ -49,10 +55,6 @@
 ###
 
 <br clear="both">
-
-<img href="https://raw.githubusercontent.com/matheuszeiser/matheuszeiser/blob/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="center">Olá, sejam Bem vind@s ao meu perfil!<br><br>"Todos os dias trazem uma escolha: Praticar o estresse ou praticar a paz" - Joan Borysenko<br><br>Essa frase é um dos meu lemas do dia a dia, nunca gerar o estresse, pois não leva a nada! <br><br>Sempre tive muita afinidade com a tecnologia desde pequeno, porém a mesma afinidade que eu tinha com a tecnologia eu tinha com a matemática e a química. Ao final do ensino médio escolhi o caminho da química, cursei durante 4 anos na UTFPR, e somente após todos esses anos percebi que não era o que eu realmente queria para minha vida. <br>Estudando o mercado vi uma grande oportunidade na área da tecnologia e decidi migrar para essa área, meu primeiro passo está sendo me formar Desenvolvedor Web.</h3>
 
